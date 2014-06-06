@@ -1,14 +1,14 @@
 <?php
 
 /**
- * Environment config
+ * Environment bootstrap
  *
  * Advanced environment configuration specifically for multiple-environment
  * deployments. More information on Craft multiple-environment deployments visit
  * the following URL: http://buildwithcraft.com/docs/multi-environment-configs
  *
  * @author    Jason McCallister
- * @link      http://themccallister.com/blog/craft-environment-bootstrap
+ * @link      http://themccallister.com/
  */
 
 return array(
