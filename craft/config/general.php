@@ -8,7 +8,7 @@
  */
 
 // Import the environment variables file path
-$env = include '/path/to/your/.env.php';
+$env = require(dirname(dirname(__FILE__)).'/../.env.php');
 
 return array(
 
