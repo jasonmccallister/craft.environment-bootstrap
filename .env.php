@@ -37,7 +37,7 @@ return array(
     'APP_BACKUP_DB_ON_UPDATE'                     => true,
     'APP_CACHE_DURATION'                          => 'P1D',
     'APP_CACHE_METHOD'                            => 'file',
-    'APP_CUSTOM_ASCII_CHAR_MAPPINGS'              => null,
+    // 'APP_CUSTOM_ASCII_CHAR_MAPPINGS'              => null,
     'APP_DEFAULT_FOLDER_PERMISSIONS'              => 0775,
     'APP_DEFAULT_TOKEN_DURATION'                  => 'P1D',
     'APP_DEV_MODE'                                => false,

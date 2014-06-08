@@ -28,7 +28,7 @@ return array(
     'backupDbOnUpdate'                  => $env['APP_BACKUP_DB_ON_UPDATE'],
     'cacheDuration'                     => $env['APP_CACHE_DURATION'],
     'cacheMethod'                       => $env['APP_CACHE_METHOD'],
-    'customAsciiCharMappings'           => $env['APP_CUSTOM_ASCII_CHAR_MAPPINGS'],
+    // 'customAsciiCharMappings'           => $env['APP_CUSTOM_ASCII_CHAR_MAPPINGS'],
     'defaultFolderPermissions'          => $env['APP_DEFAULT_FOLDER_PERMISSIONS'],
     'defaultTokenDuration'              => $env['APP_DEFAULT_TOKEN_DURATION'],
     'devMode'                           => $env['APP_DEV_MODE'],
